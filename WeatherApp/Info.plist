@@ -21,5 +21,7 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>WeatherApp needs your location information to provide the most accurate weather data at your location</string>
 </dict>
 </plist>
